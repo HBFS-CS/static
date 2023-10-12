@@ -9,7 +9,7 @@ footer: 河北金融学院计算机协会
 
 若投影显示不清楚，可通过浏览器查看本 PPT。
 
-
+![二维码](https://cdn.cnqs.moe/qianshi-cdn/2023/10/3ed7f13b078d5d334d2b812bf3a81273.png)
 
 
 ---
